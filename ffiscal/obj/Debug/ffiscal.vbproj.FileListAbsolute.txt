@@ -1,0 +1,16 @@
+C:\Users\nexus\Documents\Visual Studio 2017\Projects\ffiscal\ffiscal\bin\Debug\ffiscal.exe.config
+C:\Users\nexus\Documents\Visual Studio 2017\Projects\ffiscal\ffiscal\bin\Debug\ffiscal.exe
+C:\Users\nexus\Documents\Visual Studio 2017\Projects\ffiscal\ffiscal\bin\Debug\ffiscal.pdb
+C:\Users\nexus\Documents\Visual Studio 2017\Projects\ffiscal\ffiscal\bin\Debug\ffiscal.xml
+C:\Users\nexus\Documents\Visual Studio 2017\Projects\ffiscal\ffiscal\bin\Debug\ImpresoraFiscal.dll
+C:\Users\nexus\Documents\Visual Studio 2017\Projects\ffiscal\ffiscal\bin\Debug\Npgsql.dll
+C:\Users\nexus\Documents\Visual Studio 2017\Projects\ffiscal\ffiscal\bin\Debug\Npgsql.pdb
+C:\Users\nexus\Documents\Visual Studio 2017\Projects\ffiscal\ffiscal\bin\Debug\Npgsql.xml
+C:\Users\nexus\Documents\Visual Studio 2017\Projects\ffiscal\ffiscal\obj\Debug\ffiscal.Resources.resources
+C:\Users\nexus\Documents\Visual Studio 2017\Projects\ffiscal\ffiscal\obj\Debug\ffiscal.ProjectInstaller.resources
+C:\Users\nexus\Documents\Visual Studio 2017\Projects\ffiscal\ffiscal\obj\Debug\ffiscal.vbproj.GenerateResource.cache
+C:\Users\nexus\Documents\Visual Studio 2017\Projects\ffiscal\ffiscal\obj\Debug\ffiscal.vbproj.CoreCompileInputs.cache
+C:\Users\nexus\Documents\Visual Studio 2017\Projects\ffiscal\ffiscal\obj\Debug\ffiscal.vbproj.CopyComplete
+C:\Users\nexus\Documents\Visual Studio 2017\Projects\ffiscal\ffiscal\obj\Debug\ffiscal.exe
+C:\Users\nexus\Documents\Visual Studio 2017\Projects\ffiscal\ffiscal\obj\Debug\ffiscal.xml
+C:\Users\nexus\Documents\Visual Studio 2017\Projects\ffiscal\ffiscal\obj\Debug\ffiscal.pdb

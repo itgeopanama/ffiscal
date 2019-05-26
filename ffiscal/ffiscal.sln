@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ffiscal", "ffiscal\ffiscal.vdproj", "{5F129E00-3B70-44C8-B057-DE02D62C235E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F129E00-3B70-44C8-B057-DE02D62C235E}.Debug|Default.ActiveCfg = Debug
+		{5F129E00-3B70-44C8-B057-DE02D62C235E}.Debug|Default.Build.0 = Debug
+		{5F129E00-3B70-44C8-B057-DE02D62C235E}.Release|Default.ActiveCfg = Release
+		{5F129E00-3B70-44C8-B057-DE02D62C235E}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FC58FAB-3802-4DED-8CBD-C4CCAC19DB28}
+	EndGlobalSection
+EndGlobal
